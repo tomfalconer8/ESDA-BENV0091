@@ -10,12 +10,10 @@ getwd()
 #----- enabling packages -----
 ############################################
 
+library(lubridate)
 library(httr)
-library(ggplot2)
 library(dplyr)
 library(tidyverse)
-library(lubridate)
-library(mclust)
 
 ############################################
 #----- parameter setting -----
