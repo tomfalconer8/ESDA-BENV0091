@@ -1,0 +1,407 @@
+Display Name,STATION,Automatic ID,15 characters?,Energy Identification Code,Function,EIC Name - Asset Name,Trading Agent ID,EIC Responsible Party,EIC Locality,Last Request Date,Contact Name,Contact Email,BMU_TYPE,DEMAND_GEN_FLAG,BMRA_FUEL_TYPE,MAX_CAPACITY,NODE
+ABTH7,ABTHB,48W0000000ABTH7,,48W0000000ABTH7Y,Generation Unit,Aberthaw ABTH7,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,COAL,535,ABTH21
+ABTH7G,ABTHGT,48W000000ABTH7G,,48W000000ABTH7G2,Generation Unit,Aberthaw ABTH7G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,17,ABTH21
+ABTH8,ABTHB,48W0000000ABTH8,,48W0000000ABTH8W,Generation Unit,Aberthaw ABTH8,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,COAL,535,ABTH22
+ABTH8G,ABTHGT,48W100000ABTH8G,,48W100000ABTH8GN,Generation Unit,Aberthaw ABTH8G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,17,ABTH22
+ABTH9,ABTHB,48W0000000ABTH9,,48W0000000ABTH9U,Generation Unit,Aberthaw ABTH9,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,Tim Ellingham,tim.ellingham@rwe.com,GEN,G,COAL,524,ABTH21
+ABTH9G,ABTHGT,48W000000ABTH9G,,48W000000ABTH9GX,Generation Unit,Aberthaw ABTH9G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,17,ABTH21
+AIGA-1,CABEU,48W000000AIGA-1,,48W000000AIGA-1X,Generation Unit,Beauly Cascade AIGA-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,10,CASCAD
+AIGA-2,CABEU,48W000000AIGA-2,,48W000000AIGA-2V,Generation Unit,Beauly Cascade AIGA-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,10,CASCAD
+ANSUW-1,ANSUW,48W00000ANSUW-1,,48W00000ANSUW-1E,Generation Unit,An Suidhe Wind Farm ANSUW-1,Not used (Dummy ID 5),An Suidhe Wind Farm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,19,INVE11
+ARCHW-1,ARCHW,48W10000ARCHW-1,,48W10000ARCHW-1N,Generation Unit,Arecleoch Wind Farm ARCHW-1,CRE_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,120,COYL21
+BABAW-1,BABAW,48W00000BABAW-1,,48W00000BABAW-13,Generation Unit,Baillie Wind Farm BABAW-1,SMG_EUROP,Statkraft Markets GmBH,Local,23-09-14,Benjamin Karsten,benjamin.karsten@statkraft.de,GEN,G,WIND,52,THSO11
+BAGE-1,BAGE,48W000000BAGE-1,15,48W000000BAGE-1L,Generation Unit,Baglan Bay BAGE-1,BOL_POWER,Baglan Operations Ltd,Local,23-09-14,Phil Robinson,phil.robinson@calonenergy.com,GEN,G,CCGT,520,BAGB21
+BAGE-2,BAGE,48W000000BAGE-2,15,48W000000BAGE-2J,Generation Unit,Baglan Bay BAGE-2,BOL_POWER,Baglan Operations Ltd,Local,23-09-14,Phil Robinson,phil.robinson@calonenergy.com,GEN,G,CCGT,32,BAGB21
+BARK-1,BARKB,48W000000BARK-1,15,48W000000BARK-1G,Generation Unit,Barking Power BARK-1,BRK_POWER,Barking Power Ltd,Local,23-09-14,Nigel Burrows,nb@thames-power.com,GEN,G,CCGT,400,BARK21
+BARKB2,BARKB,48W000000BARKB2,15,48W000000BARKB2F,Generation Unit,Barking Power BARKB2,BRK_POWER,Barking Power Ltd,Local,23-09-14,Nigel Burrows,nb@thames-power.com,GEN,G,CCGT,600,BARK22
+BLLA-1,BLLA,48W000000BLLA-1,,48W000000BLLA-1K,Generation Unit,Blacklaw BLLA-1,CRE_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,134,WISH11
+BNAKW-1,BNAKW,48W00000BNAKW-1,,48W00000BNAKW-1G,Generation Unit,Ben Aketil BNAKW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,28,FAUG11
+BOWLW-1,BOWLW,48W00000BOWLW-1,,48W00000BOWLW-1K,Generation Unit,Barrow Offshore Wind Farm BOWLW-1,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,90,HEYS41
+BOYNW-1,BOYNW,48W00000BOYNW-1,,48W00000BOYNW-1Z,Generation Unit,Boyndie Wind Farm BOYNW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,22,KEIT11
+BRBEO-1,BRBEO,48W00000BRBEO-1,,48W00000BRBEO-17,Generation Unit,Burbo Extension BRBEO-1,SVP_POWER,DONG Naturgas A/S,Local,14-10-16,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,254,PENT41
+BRDUW-1,BRDUW,48W00000BRDUW-1,,48W00000BRDUW-1V,Generation Unit,Braes of Doune BRDUW-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,WIND,72,BRAC31
+BRGG-1,BRGG,48W000000BRGG-1,,48W000000BRGG-1M,Generation Unit,Brigg BRGG-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,CCGT,150,KEAD41
+BRYBW-1,BRYBW,48W00000BRYBW-1,,48W00000BRYBW-10,Generation Unit,Berry Burn Wind Farm BRYBW-1,SMG_EUROP,Statkraft Markets GmBH,Local,23-09-14,Benjamin Karsten,benjamin.karsten@statkraft.de,GEN,G,WIND,66,BERB21
+BRYP-1,BRYP,48W000000BRYP-1,,48W000000BRYP-17,Generation Unit,Barry BRYP-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,CCGT,140,ABTH21
+BURBW-1,BURBW,48W00000BURBW-1,,48W00000BURBW-1L,Generation Unit,Burbo Wind Farm BURBW-1,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,90,BIRK21
+CAIRW-1,CAIRW,48W00000CAIRW-1,,48W00000CAIRW-1G,Generation Unit,Cairn Uish Wind CAIRW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,51,DAAS31
+CAIRW-2,CAIRB,48W00000CAIRW-2,,48W00000CAIRW-2E,Generation Unit,Cairn Uish II W/F CAIRW-2,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,42,DAAS31
+CARR-1,CARR,48W000000CARR-1,,48W000000CARR-1I,Generation Unit,Carrington P/S CARR-1,ESB_SUPPP,ESB Independent Generation Trading Ltd,Local,23-09-14,Sean Kirwan,Sean.Kirwan1@esb.ie,GEN,G,CCGT,455,CARR21
+CARR-2,CARR,48W000000CARR-2,,48W000000CARR-2G,Generation Unit,Carrington P/S CARR-2,ESB_SUPPP,ESB Independent Generation Trading Ltd,Local,23-09-14,Sean Kirwan,Sean.Kirwan1@esb.ie,GEN,G,CCGT,455,CARR21
+CAS-BEU01,CABEU,48W000CAS-BEU01,,48W000CAS-BEU01F,Generation Unit,Beauly Cascade CAS-BEU01,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,CAS,G,NPSHYD,98,BEAU11
+CAS-CLU01,CACLU,48W000CAS-CLU01,,48W000CAS-CLU01B,Generation Unit,Clunie Cascade CAS-CLU01,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,CAS,G,NPSHYD,77,CLUN11
+CAS-CON01,CACON,48W000CAS-CON01,,48W000CAS-CON01O,Generation Unit,Conon Cascade CAS-CON01,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,CAS,G,NPSHYD,87,BEAU11
+CAS-GAR01,CAGAR,48W000CAS-GAR01,,48W000CAS-GAR01H,Generation Unit,Garry Cascade CAS-GAR01,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,CAS,G,NPSHYD,39,FAUG11
+CASH-1,CAKIL,48W000000CASH-1,,48W000000CASH-1G,Generation Unit,Killin Cascade CASH-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,11,CASCAD
+CAS-KIL01,CAKIL,48W000CAS-KIL01,,48W000CAS-KIL01E,Generation Unit,Killin Cascade CAS-KIL01,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,CAS,G,NPSHYD,60,KIIN11
+CAS-MOR01,CAMOR,48W000CAS-MOR01,,48W000CAS-MOR01M,Generation Unit,Moriston Cascade CAS-MOR01,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,CAS,G,NPSHYD,78,FAUG11
+CASS-1,CASS,48W000000CASS-1,,48W000000CASS-19,Generation Unit,Cassley CASS-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,3,SHIN11
+CASS-2,CASS,48W000000CASS-2,,48W000000CASS-27,Generation Unit,Cassley CASS-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,8,SHIN11
+CAUSW-1,CAUSW,48W00000CAUSW-1,,48W00000CAUSW-1D,Generation Unit,Causeymire CAUSW-1,Not used (Dummy ID 6),Causeymire Windfarm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,48,SHIN11
+CDCL-1,CDCL,48W000000CDCL-1,,48W000000CDCL-1P,Generation Unit,Cottam Development Centre CDCL-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,440,COTT42
+CEAN-1,CAMOR,48W000000CEAN-1,,48W000000CEAN-1L,Generation Unit,Moriston Cascade CEAN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,CASCAD
+CEAN-2,CAMOR,48W000000CEAN-2,,48W000000CEAN-2J,Generation Unit,Moriston Cascade CEAN-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,4,CASCAD
+CLAC-1,CLAC,48W000000CLAC-1,,48W000000CLAC-1N,Generation Unit,Clachan CLAC-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,44,INVE11
+CLDCW-1,CLDCW,48W00000CLDCW-1,,48W00000CLDCW-17,Generation Unit,Clyde Central Wind Farm CLDCW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,112,ELVA21
+CLDNW-1,CLDNW,48W00000CLDNW-1,,48W00000CLDNW-1Q,Generation Unit,Clyde North Wind Farm CLDNW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,108,ELVA21
+CLDSW-1,CLDSW,48W00000CLDSW-1,,48W00000CLDSW-11,Generation Unit,Clyde South Wind Farm CLDSW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,128,ELVA21
+CLUN-1,CACLU,48W000000CLUN-1,,48W000000CLUN-1R,Generation Unit,Clunie Cascade CLUN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,21,CASCAD
+CLUN-2,CACLU,48W000000CLUN-2,,48W000000CLUN-2P,Generation Unit,Clunie Cascade CLUN-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,21,CASCAD
+CLUN-3,CACLU,48W000000CLUN-3,,48W000000CLUN-3N,Generation Unit,Clunie Cascade CLUN-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,21,CASCAD
+CNQPS-1,CNQPS,48W00000CNQPS-1,,48W00000CNQPS-1E,Generation Unit,Connah's Quay CNQPS-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,375,DEES42
+CNQPS-2,CNQPS,48W00000CNQPS-2,,48W00000CNQPS-2C,Generation Unit,Connah's Quay CNQPS-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,375,DEES42
+CNQPS-3,CNQPS,48W00000CNQPS-3,,48W00000CNQPS-3A,Generation Unit,Connah's Quay CNQPS-3,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,375,DEES42
+CNQPS-4,CNQPS,48W00000CNQPS-4,,48W00000CNQPS-48,Generation Unit,Connah's Quay CNQPS-4,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,375,DEES42
+CORB-1,CORB,48W000000CORB-1,,48W000000CORB-1Z,Generation Unit,Corby CORB-1,ESB_SUPPP,ESB Independent Generation Trading Ltd,Local,23-09-14,Sean Kirwan,Sean.Kirwan1@esb.ie,GEN,G,CCGT,401,GREN41
+COSO-1,COSO,48W000000COSO-1,,48W000000COSO-1F,Generation Unit,Coryton Energy Centre COSO-1,COSOPOWER,Intergen (UK) Ltd,Local,23-09-14,Andrew Taylor,ataylor@intergen.com,GEN,G,CCGT,800,COSO41
+COTPS-1,COTPS,48W00000COTPS-1,,48W00000COTPS-1Q,Generation Unit,Cottam COTPS-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,497,COTT41
+COTPS-2,COTPS,48W00000COTPS-2,,48W00000COTPS-2O,Generation Unit,Cottam COTPS-2,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,507,COTT42
+COTPS-3,COTPS,48W00000COTPS-3,,48W00000COTPS-3M,Generation Unit,Cottam COTPS-3,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,507,COTT42
+COTPS-4,COTPS,48W00000COTPS-4,,48W00000COTPS-4K,Generation Unit,Cottam COTPS-4,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,497,COTT41
+COWE1,COWE,48W0000000COWE1,,48W0000000COWE13,Generation Unit,Fawley COWE1,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,50,FAWL41
+COWE2,COWE,48W0000000COWE2,,48W0000000COWE21,Generation Unit,Fawley COWE2,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,50,FAWL41
+CRGHW-1,CRGHW,48W00000CRGHW-1,,48W00000CRGHW-1X,Generation Unit,Carraig Gheal Wind Farm CRGHW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,46,INVE11
+CRUA-1,CRUA,48W000000CRUA-1,,48W000000CRUA-16,Generation Unit,Cruachan CRUA-1,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,PST,B,PS,120,CRUA21
+CRUA-2,CRUA,48W000000CRUA-2,,48W000000CRUA-24,Generation Unit,Cruachan CRUA-2,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,PST,B,PS,120,CRUA21
+CRUA-3,CRUA,48W000000CRUA-3,,48W000000CRUA-32,Generation Unit,Cruachan CRUA-3,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,PST,B,PS,100,CRUA22
+CRUA-4,CRUA,48W000000CRUA-4,,48W000000CRUA-40,Generation Unit,Cruachan CRUA-4,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,PST,B,PS,100,CRUA22
+CRYRW-1,CRYRW,48W00000CRYRW-1,,48W00000CRYRW-1N,Generation Unit,Crystal Rig Wind Farm CRYRW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,63,TORN41
+CRYRW-2,CRYRB,48W00000CRYRW-2,,48W00000CRYRW-2L,Generation Unit,Crystal Rig II CRYRW-2,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,200,CRYR11
+CULL-1,CABEU,48W000000CULL-1,,48W000000CULL-1Q,Generation Unit,Beauly Cascade CULL-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,2,CASCAD
+CULL-2,CABEU,48W000000CULL-2,,48W000000CULL-2O,Generation Unit,Beauly Cascade CULL-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,18,CASCAD
+DALSW-1,DALSW,48W00000DALSW-1,,48W00000DALSW-1M,Generation Unit,Dalswinton DALSW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,30,DUMF11
+DAMC-1,DAMC,48W000000DAMC-1,,48W000000DAMC-1M,Generation Unit,Damhead Creek DAMC-1,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,CCGT,805,KINO41
+DEAN-1,CABEU,48W000000DEAN-1,,48W000000DEAN-1E,Generation Unit,Beauly Cascade DEAN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,19,CASCAD
+DEAN-2,CABEU,48W000000DEAN-2,,48W000000DEAN-2C,Generation Unit,Beauly Cascade DEAN-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,19,CASCAD
+DEEP-1,DEEP,48W000000DEEP-1,,48W000000DEEP-1N,Generation Unit,Deeside DEEP-1,DPD_COLTD,International Power PLC,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,CCGT,528,DEES41
+DERW-1,DERW,48W000000DERW-1,,48W000000DERW-14,Generation Unit,Derwent DERW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,CCGT,236,WILL21
+DEUCW-1,DEUCW,48W00000DEUCW-1,,48W00000DEUCW-1K,Generation Unit,Deucheran Hill Wind DEUCW-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,16,INVE11
+DIDC01G,DIDCGT,48W00000DIDC01G,,48W00000DIDC01G1,Generation Unit,Didcot A DIDC01G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,25,DIDC41
+DIDC02G,DIDCGT,48W00000DIDC02G,,48W00000DIDC02GZ,Generation Unit,Didcot A DIDC02G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,25,DIDC41
+DIDC03G,DIDCGT,48W00000DIDC03G,,48W00000DIDC03GW,Generation Unit,Didcot A DIDC03G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,25,DIDC41
+DIDC04G,DIDCGT,48W00000DIDC04G,,48W00000DIDC04GT,Generation Unit,Didcot A DIDC04G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,25,DIDC41
+DIDCB5,DIDCB,48W000000DIDCB5,,48W000000DIDCB5C,Generation Unit,Didcot B DIDCB5,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,780,DIDC41
+DIDCB6,DIDCB,48W000000DIDCB6,,48W000000DIDCB6A,Generation Unit,Didcot B DIDCB6,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,710,DIDC42
+DINO-1,DINO,48W000000DINO-1,,48W000000DINO-1W,Generation Unit,Dinorwig DINO-1,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,336,DINO41
+DINO-2,DINO,48W000000DINO-2,,48W000000DINO-2U,Generation Unit,Dinorwig DINO-2,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,336,DINO41
+DINO-3,DINO,48W000000DINO-3,,48W000000DINO-3S,Generation Unit,Dinorwig DINO-3,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,336,DINO41
+DINO-4,DINO,48W000000DINO-4,,48W000000DINO-4Q,Generation Unit,Dinorwig DINO-4,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,336,DINO41
+DINO-5,DINO,48W000000DINO-5,,48W000000DINO-5O,Generation Unit,Dinorwig DINO-5,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,336,DINO41
+DINO-6,DINO,48W000000DINO-6,,48W000000DINO-6M,Generation Unit,Dinorwig DINO-6,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,336,DINO41
+DNGB21,DNGB,48W000000DNGB21,,48W000000DNGB216,Generation Unit,Dungeness B DNGB21,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,660,DUNG41
+DNGB22,DNGB,48W000000DNGB22,,48W000000DNGB224,Generation Unit,Dungeness B DNGB22,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,660,DUNG41
+DRAXX-1,DRAXX,48W00000DRAXX-1,15,48W00000DRAXX-1E,Generation Unit,Drax DRAXX-1,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,BIOMASS,645,DRAX41
+DRAXX-10G,DRAXXG,48W000DRAXX-10G,15,48W000DRAXX-10G9,Generation Unit,Drax DRAXX-10G,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,OCGT,32,DRAX41
+DRAXX-12G,DRAXXG,48W000DRAXX-12G,15,48W000DRAXX-12G3,Generation Unit,Drax DRAXX-12G,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,OCGT,32,DRAX41
+DRAXX-2,DRAXX,48W00000DRAXX-2,15,48W00000DRAXX-2C,Generation Unit,Drax DRAXX-2,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,BIOMASS,645,DRAX41
+DRAXX-3,DRAXX,48W00000DRAXX-3,15,48W00000DRAXX-3A,Generation Unit,Drax DRAXX-3,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,BIOMASS,645,DRAX41
+DRAXX-4,DRAXX,48W00000DRAXX-4,15,48W00000DRAXX-48,Generation Unit,Drax DRAXX-4,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,COAL,645,DRAX42
+DRAXX-5,DRAXX,48W00000DRAXX-5,15,48W00000DRAXX-56,Generation Unit,Drax DRAXX-5,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,COAL,645,DRAX42
+DRAXX-6,DRAXX,48W00000DRAXX-6,15,48W00000DRAXX-64,Generation Unit,Drax DRAXX-6,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,COAL,645,DRAX42
+DRAXX-9G,DRAXXG,48W0000DRAXX-9G,15,48W0000DRAXX-9GR,Generation Unit,Drax DRAXX-9G,DRX_POWER,Drax Power Ltd,Local,23-09-14,Nicola Garrett,nicola.garrett@drax.com,GEN,G,OCGT,32,DRAX41
+DRDGW-1,DRDGW,48W00000DRDGW-1,,48W00000DRDGW-1B,Generation Unit,Drumderg Wind Farm DRDGW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,32,COUA11
+EARBW-1,EARBW,48W00000EARBW-1,,48W00000EARBW-1Q,Generation Unit,Earlsburn EARBW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,35,BONN11
+EDINW-1,EDINW,48W10000EDINW-1,,48W10000EDINW-1N,Generation Unit,Edinbane Windfarm EDINW-1,VTS_EUROP,Vattenfall Trading Services GmbH,Local,23-09-14,Logistics Power,bkm@vattenfall.de,GEN,G,WIND,42,FAUG11
+EECL-1,EECL,48W000000EECL-1,,48W000000EECL-15,Generation Unit,Enfield Energy Centre EECL-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,408,BRIM2D
+EGGPS-1,EGGPS,48W00000EGGPS-1,15,48W00000EGGPS-1X,Generation Unit,Eggborough EGGPS-1,Not used (Dummy ID 1),Eggborough Power Limited ,Local,23-09-14,Rebecca Williams,Rebecca.williams@eggboroughpower.co.uk,GEN,G,COAL,525,EGGB41
+EGGPS-2,EGGPS,48W00000EGGPS-2,15,48W00000EGGPS-2V,Generation Unit,Eggborough EGGPS-2,Not used (Dummy ID 1),Eggborough Power Limited ,Local,23-09-14,Rebecca Williams,Rebecca.williams@eggboroughpower.co.uk,GEN,G,COAL,525,EGGB41
+EGGPS-3,EGGPS,48W00000EGGPS-3,15,48W00000EGGPS-3T,Generation Unit,Eggborough EGGPS-3,Not used (Dummy ID 1),Eggborough Power Limited ,Local,23-09-14,Rebecca Williams,Rebecca.williams@eggboroughpower.co.uk,GEN,G,COAL,525,EGGB42
+EGGPS-4,EGGPS,48W00000EGGPS-4,15,48W00000EGGPS-4R,Generation Unit,Eggborough EGGPS-4,Not used (Dummy ID 1),Eggborough Power Limited ,Local,23-09-14,Rebecca Williams,Rebecca.williams@eggboroughpower.co.uk,GEN,G,COAL,525,EGGB42
+ERRO-1,ERRO,48W000000ERRO-1,,48W000000ERRO-1P,Generation Unit,Errochty ERRO-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,25,ERRO11
+ERRO-2,ERRO,48W000000ERRO-2,,48W000000ERRO-2N,Generation Unit,Errochty ERRO-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,25,ERRO11
+ERRO-3,ERRO,48W000000ERRO-3,,48W000000ERRO-3L,Generation Unit,Errochty ERRO-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,25,ERRO11
+FAARW-1,FAARW,48W00000FAARW-1,,48W00000FAARW-13,Generation Unit,Farr Windfarm FAARW-1,Not used (Dummy ID 7),Farr Windfarm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,70,BEAU11
+FAARW-2,FAARW,48W00000FAARW-2,,48W00000FAARW-21,Generation Unit,Farr Windfarm FAARW-2,Not used (Dummy ID 7),Farr Windfarm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,70,BEAU11
+FALGW-1,FALGW,48W00000FALGW-1,,48W00000FALGW-1T,Generation Unit,Fallago Wind Farm FALGW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,144,FALL41
+FASN-1,FASN,48W000000FASN-1,,48W000000FASN-18,Generation Unit,Fasnakyle FASN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,22,FASN11
+FASN2,FASN,48W0000000FASN2,,48W0000000FASN25,Generation Unit,Fasnakyle FASN2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,23,FASN11
+FASN3,FASN,48W0000000FASN3,,48W0000000FASN33,Generation Unit,Fasnakyle FASN3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,22,FASN11
+FASN-4,FASN,48W000000FASN-4,,48W000000FASN-42,Generation Unit,Fasnakyle FASN-4,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,8,FASN11
+FAWN-1,FAWN,48W000000FAWN-1,,48W000000FAWN-1P,Generation Unit,Fawley North FAWN-1,EPC_POWER,Esso Petroleum Company Limited,Local,23-09-14,Dave N. Vaughan,dave.n.vaughan@exxonmobil.com,GEN,G,CCGT,150,FAWL41
+FDUNT-1,FDUNT,48W00000FDUNT-1,,48W00000FDUNT-15,Generation Unit,Kings Lynn FDUNT-1,SEL_SUPPP,SmartestEnergy Trading Point,Local,23-09-14,Julia Byford-Smith,julia-byford-smith@smartestenergy.com,GEN,G,CCGT,99,
+FELL-1,FELL,48W000000FELL-1,,48W000000FELL-1R,Generation Unit,Fellside FELL-1,FEL_POWER,Sellafield Ltd,Local,23-09-14,Jane Lawson,jane.lawson@sellafieldsites.com,GEN,G,CCGT,180,HUTT4A
+FERR-1,FERR,48W000000FERR-1,,48W000000FERR-1A,Generation Unit,Ferrybridge FERR-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,490,FERR22
+FERR-2,FERR,48W000000FERR-2,,48W000000FERR-28,Generation Unit,Ferrybridge FERR-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,490,FERR22
+FERR-3,FERR,48W000000FERR-3,,48W000000FERR-36,Generation Unit,Ferrybridge FERR-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,490,FERR23
+FERR-4,FERR,48W000000FERR-4,,48W000000FERR-44,Generation Unit,Ferrybridge FERR-4,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,490,FERR21
+FERR-5G,FERR-G,48W00000FERR-5G,,48W00000FERR-5GV,Generation Unit,Ferrybridge FERR-5G,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,OCGT,17,FERR23
+FERR-8G,FERR-G,48W00000FERR-8G,,48W00000FERR-8GM,Generation Unit,Ferrybridge FERR-8G,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,OCGT,17,FERR22
+FFES-1,FFES,48W000000FFES-1,,48W000000FFES-1S,Generation Unit,Dinorwig FFES-1,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,96,FFES21
+FFES-2,FFES,48W000000FFES-2,,48W000000FFES-2Q,Generation Unit,Dinorwig FFES-2,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,96,FFES21
+FFES-3,FFES,48W000000FFES-3,,48W000000FFES-3O,Generation Unit,Dinorwig FFES-3,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,96,FFES21
+FFES-4,FFES,48W000000FFES-4,,48W000000FFES-4M,Generation Unit,Dinorwig FFES-4,P_STORAGE,First Hydro,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,PST,B,PS,96,FFES21
+FIDL-1,FIDL,48W000000FIDL-1,,48W000000FIDL-16,Generation Unit,Fiddlers Ferry FIDL-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,485,FIDF21
+FIDL-2,FIDL,48W000000FIDL-2,,48W000000FIDL-24,Generation Unit,Fiddlers Ferry FIDL-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,485,FIDF22
+FIDL-2G,FIDL-G,48W00000FIDL-2G,,48W00000FIDL-2GF,Generation Unit,Fiddlers Ferry FIDL-2G,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,OCGT,17,FIDF22
+FIDL-3,FIDL,48W000000FIDL-3,,48W000000FIDL-32,Generation Unit,Fiddlers Ferry FIDL-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,485,FIDF23
+FIDL-3G,FIDL-G,48W00000FIDL-3G,,48W00000FIDL-3GC,Generation Unit,Fiddlers Ferry FIDL-3G,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,OCGT,17,FIDF23
+FIDL-4,FIDL,48W000000FIDL-4,,48W000000FIDL-40,Generation Unit,Fiddlers Ferry FIDL-4,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,COAL,506,FIDF24
+FINL-1,FINL,48W000000FINL-1,,48W000000FINL-1U,Generation Unit,Finlarig FINL-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,KIIN11
+FOYE-1,FOYE,48W000000FOYE-1,,48W000000FOYE-14,Generation Unit,Foyers FOYE-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,PST,B,PS,160,FOYE21
+FOYE-2,FOYE,48W000000FOYE-2,,48W000000FOYE-22,Generation Unit,Foyers FOYE-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,PST,B,PS,160,FOYE21
+GAUR-1,GAUR,48W000000GAUR-1,,48W000000GAUR-1C,Generation Unit,Gaur GAUR-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,999,ERRO11
+GDSTW-1,GDSTW,48W00000GDSTW-1,,48W00000GDSTW-14,Generation Unit,Gordonstown  Wind Farm GDSTW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,13,KEIT11
+GFLDW-1,GFLDW,48W00000GFLDW-1,,48W00000GFLDW-11,Generation Unit,Goole Fields Wind Farm GFLDW-1,NAT_POWER,RWE Innogy UK Limited ,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,32,DRAX42
+GLEN-1,CAMOR,48W000000GLEN-1,,48W000000GLEN-15,Generation Unit,Moriston Cascade GLEN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,20,CASCAD
+GLEN-2,CAMOR,48W000000GLEN-2,,48W000000GLEN-23,Generation Unit,Moriston Cascade GLEN-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,20,CASCAD
+GLNDO-1,GLNDO,48W00000GLNDO-1,,48W00000GLNDO-1G,Generation Unit,Glendoe Hydro GLNDO-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,100,FAUG11
+GLOFW-1,GLOFW,48W00000GLOFW-1,,48W00000GLOFW-15,Generation Unit,Glens of Foudland GLOFW-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,WIND,26,KEIT11
+GNFSW-1,GNFSW,48W00000GNFSW-1,,48W00000GNFSW-1H,Generation Unit,Gunfleet Sands GNFSW-1,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,100,BRFO41
+GNFSW-2,GNFSW,48W00000GNFSW-2,,48W00000GNFSW-2F,Generation Unit,Gunfleet Sands GNFSW-2,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,65,BRFO41
+GORDW-1,GORDW,48W00000GORDW-1,,48W00000GORDW-1D,Generation Unit,Gordon Bush Wind Farm GORDW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,70,GORW21
+GRAI-1,GRAI,48W000000GRAI-1,,48W000000GRAI-19,Generation Unit,Grain GRAI-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OIL,675,GRAI41
+GRAI1G,GRAI-G,48W000000GRAI1G,,48W000000GRAI1GA,Generation Unit,Grain GRAI1G,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OCGT,29,GRAI41
+GRAI-4,GRAI,48W000000GRAI-4,,48W000000GRAI-43,Generation Unit,Grain GRAI-4,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OIL,675,GRAI42
+GRAI4G,GRAI-G,48W000000GRAI4G,,48W000000GRAI4G1,Generation Unit,Grain GRAI4G,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OCGT,29,GRAI42
+GRAI-6,GRAIN,48W100000GRAI-6,,48W100000GRAI-6N,Generation Unit,Grain GRAI-6,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,455,GRAI41
+GRAI-7,GRAIN,48W000000GRAI-7,,48W000000GRAI-7Y,Generation Unit,Grain GRAI-7,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,455,GRAI42
+GRAI-8,GRAIN,48W000000GRAI-8,,48W000000GRAI-8W,Generation Unit,Grain GRAI-8,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,455,GRAI42
+GRGBW-1,GRGBW,48W00000GRGBW-1,,48W00000GRGBW-1V,Generation Unit,Greater Gabbard GRGBW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,334,SIZE41
+GRGBW-2,GRGBW,48W00000GRGBW-2,,48W00000GRGBW-2T,Generation Unit,Greater Gabbard GRGBW-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,167,SIZE41
+GRGBW-3,GRGBW,48W00000GRGBW-3,,48W00000GRGBW-3R,Generation Unit,Greater Gabbard GRGBW-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,167,SIZE41
+GRIFW-1,GRIFW,48W10000GRIFW-1,,48W10000GRIFW-1N,Generation Unit,Griffin Windfarm GRIFW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,102,GRIF11
+GRIFW-2,GRIFW,48W00000GRIFW-2,,48W00000GRIFW-2Y,Generation Unit,Griffin Windfarm GRIFW-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,102,ABNE11
+GRMO-1,GRMO,48W100000GRMO-1,,48W100000GRMO-1N,Generation Unit,Grangemouth GRMO-1,Not used (Dummy ID 13),Grangemouth CHP Limited,Local,23-09-14,Ari Kiuru,ari.kiuru@fortum.com,GEN,G,CCGT,144,GRMO21
+GRUB-1,GRUB,48W000000GRUB-1,,48W000000GRUB-1B,Generation Unit,Grudie Bridge GRUB-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,BEAU11
+GRUB-2,GRUB,48W000000GRUB-2,,48W000000GRUB-29,Generation Unit,Grudie Bridge GRUB-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,BEAU11
+GYAR-1,GYAR,48W000000GYAR-1,,48W000000GYAR-15,Generation Unit,Great Yarmouth GYAR-1,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,420,NORW41
+GYMRW-1,GYMRW,48W00000GYMRW-1,,48W00000GYMRW-1E,Generation Unit,Gwynt Y Mor GYMRW-1,Not used (Dummy ID 8),Gwynt Y Mor Offshore Wind Farm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,295,PENT41
+GYMRW-2,GYMRW,48W00000GYMRW-2,,48W00000GYMRW-2C,Generation Unit,Gwynt Y Mor GYMRW-2,Not used (Dummy ID 8),Gwynt Y Mor Offshore Wind Farm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,295,PENT41
+HADHW-1,HADHW,48W00000HADHW-1,,48W00000HADHW-1J,Generation Unit,Hadyard Hill Windfarm HADHW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,130,HADH11
+HEYM11,HEYM1,48W000000HEYM11,,48W000000HEYM11C,Generation Unit,Heysham 1 HEYM11,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,666,HEYS41
+HEYM12,HEYM1,48W000000HEYM12,,48W000000HEYM12A,Generation Unit,Heysham 1 HEYM12,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,666,HEYS41
+HEYM27,HEYM2,48W000000HEYM27,,48W000000HEYM27Y,Generation Unit,Heysham 2 HEYM27,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,672,HEYS41
+HEYM28,HEYM2,48W000000HEYM28,,48W000000HEYM28W,Generation Unit,Heysham 2 HEYM28,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,672,HEYS41
+HINB-7,HINB,48W000000HINB-7,,48W000000HINB-77,Generation Unit,Hinkley Point B HINB-7,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,700,HINP41
+HINB-8,HINB,48W000000HINB-8,,48W000000HINB-85,Generation Unit,Hinkley Point B HINB-8,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,700,HINP41
+HMGTO-1,HMGTO,48W00000HMGTO-1,,48W00000HMGTO-10,Generation Unit,Humber Gateway Offshore Wind Farm HMGTO-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,108,HUMR41
+HMGTO-2,HMGTO,48W00000HMGTO-2,,48W00000HMGTO-2Z,Generation Unit,Humber Gateway Offshore Wind Farm HMGTO-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,111,HUMR41
+HRSTW-1,HRSTW,48W00000HRSTW-1,,48W00000HRSTW-19,Generation Unit,Harestanes Wind Farm HRSTW-1,CRE_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,126,MOFF11
+HRTL-1,HRTL,48W000000HRTL-1,,48W000000HRTL-16,Generation Unit,Hartlepool HRTL-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,666,HATL22
+HRTL-2,HRTL,48W000000HRTL-2,,48W000000HRTL-24,Generation Unit,Hartlepool HRTL-2,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,666,HATL21
+HUMR-1,HUMR,48W100000HUMR-1,,48W100000HUMR-1N,Generation Unit,Immingham CHP LLP HUMR-1,IMM_POWER,Immingham CHP LLP,Local,23-09-14,Adam Lewis,alewis@vpi-i.com,GEN,G,CCGT,"1,240",HUMR41
+HUNB-7,HUNB,48W000000HUNB-7,,48W000000HUNB-79,Generation Unit,Hunterston HUNB-7,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,660,HUER41
+HUNB-8,HUNB,48W000000HUNB-8,,48W000000HUNB-87,Generation Unit,Hunterston HUNB-8,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,660,HUER41
+IIG-CNGS1,IICNGS,48W000IIG-CNGS1,,48W000IIG-CNGS1B,Generation Unit,Cenergise IIG-CNGS1,EWIC_TRAD,EirGrid Interconnector Ltd,Local,23-09-14,Interconnector Administrator ,interconnectors@soni.ltd.uk,GEN,G,InterConnector,500,
+IMG-CNGS1,IMCNGS1,48W000IMG-CNGS1,,48W000IMG-CNGS1C,Generation Unit,Cenergise IMG-CNGS1,SONI_TRAD,SONI Ltd,Local,23-09-14,Interconnector Administrator ,interconnectors@soni.ltd.uk,GEN,G,InterConnector,500,
+INAW-1,INAW,48W000000INAW-1,,48W000000INAW-10,Generation Unit,Inverawe INAW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,25,INVE11
+INDQ-1,INDQ,48W000000INDQ-1,15,48W000000INDQ-19,Generation Unit,Indian Queens INDQ-1,IDQ_POWER,Indian Queens Power Ltd,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,OCGT,140,INDQ41
+INGA-1,CAGAR,48W000000INGA-1,,48W000000INGA-1L,Generation Unit,Garry Cascade INGA-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,20,CASCAD
+IRNPS-1,IRNPS,48W00000IRNPS-1,,48W00000IRNPS-1U,Generation Unit,Ironbridge IRNPS-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OTHER,500,IRON41
+IRNPS-2,IRNPS,48W00000IRNPS-2,,48W00000IRNPS-2S,Generation Unit,Ironbridge IRNPS-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OTHER,500,IRON41
+KEAD-1,KEAD,48W000000KEAD-1,,48W000000KEAD-15,Generation Unit,Keadby KEAD-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,CCGT,764,KEAD41
+KEADGT-3,KEADGT,48W0000KEADGT-3,,48W0000KEADGT-3O,Generation Unit,Keadby KEADGT-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,OCGT,30,KEAD41
+KILBW-1,KILBW,48W00000KILBW-1,,48W00000KILBW-1W,Generation Unit,Kilbraur Wind Farm KILBW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,67,STRB21
+KILLPG-1,KILLPG,48W0000KILLPG-1,,48W0000KILLPG-1Q,Generation Unit,Killingholme (PG) KILLPG-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,500,KILL41
+KILLPG-2,KILLPG,48W0000KILLPG-2,,48W0000KILLPG-2O,Generation Unit,Killingholme (PG) KILLPG-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,CCGT,500,KILL41
+KILNS-1,KILNS,48W00000KILNS-1,,48W00000KILNS-1P,Generation Unit,Killingholme Control Point KILNS-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,CCGT,665,KILL41
+KIOR-1,CABEU,48W000000KIOR-1,,48W000000KIOR-13,Generation Unit,Beauly Cascade KIOR-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,10,CASCAD
+KIOR-2,CABEU,48W000000KIOR-2,,48W000000KIOR-21,Generation Unit,Beauly Cascade KIOR-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,10,CASCAD
+KLYN-A-1,KLYN-A,48W0000KLYN-A-1,,48W0000KLYN-A-1G,Generation Unit,Kings Lynn KLYN-A-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,CCGT,0,WALP41
+LAGA-1,LAGA,48W000000LAGA-1,,48W000000LAGA-14,Generation Unit,Langage Power Station LAGA-1,EGG_POWER,EP Langage Ltd,Local,23-09-14,Rebecca Lewis,rebecca.lewis@epinvest.co.uk,GEN,G,CCGT,905,LAGA41
+LAIG-1,LAIG,48W000000LAIG-1,,48W000000LAIG-17,Generation Unit,Allt na Lairige LAIG-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,999,INVE11
+LARYO-1,LARYW,48W00000LARYO-1,,48W00000LARYO-1Z,Generation Unit,London Array Wind Farm LARYO-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,180,CLEH41
+LARYO-2,LARYW,48W00000LARYO-2,,48W00000LARYO-2X,Generation Unit,London Array Wind Farm LARYO-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,180,CLEH41
+LARYO-3,LARYW,48W00000LARYO-3,,48W00000LARYO-3V,Generation Unit,London Array Wind Farm LARYO-3,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,180,CLEH41
+LARYO-4,LARYW,48W00000LARYO-4,,48W00000LARYO-4T,Generation Unit,London Array Wind Farm LARYO-4,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,180,CLEH41
+LBAR-1,LBAR,48W000000LBAR-1,,48W000000LBAR-1Y,Generation Unit,Little Barford LBAR-1,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,735,EASO41
+LBAR-1G,LBAR-G,48W00000LBAR-1G,,48W00000LBAR-1G7,Generation Unit,Little Barford OCGT LBAR-1G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,17,EASO41
+LCLTW-1,LCLTW,48W00000LCLTW-1,,48W00000LCLTW-1D,Generation Unit,Lochluichart LCLTW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,69,BEAU11
+LITT1G,LITT-G,48W000000LITT1G,,48W000000LITT1G1,Generation Unit,Littlebrook LITT1G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,35,LITT41
+LITT2G,LITT-G,48W000000LITT2G,,48W000000LITT2GZ,Generation Unit,Littlebrook LITT2G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,35,LITT41
+LITT3G,LITT-G,48W000000LITT3G,,48W000000LITT3GW,Generation Unit,Littlebrook LITT3G,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OCGT,35,LITT41
+LITTD1,LITT-D,48W000000LITTD1,,48W000000LITTD1W,Generation Unit,Littlebrook LITTD1,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OIL,685,LITT42
+LITTD2,LITT-D,48W000000LITTD2,,48W000000LITTD2U,Generation Unit,Littlebrook LITTD2,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OIL,685,LITT41
+LITTD3,LITT-D,48W000000LITTD3,,48W000000LITTD3S,Generation Unit,Littlebrook LITTD3,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,OIL,0,LITT41
+LIVI-1,CAMOR,48W000000LIVI-1,,48W000000LIVI-1Y,Generation Unit,Moriston Cascade LIVI-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,18,CASCAD
+LNCSO-1,LNCSW,48W00000LNCSO-1,,48W00000LNCSO-1R,Generation Unit,Lincs Wind Farm LNCSO-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,WIND,129,WALP41
+LNCSO-2,LNCSW,48W00000LNCSO-2,,48W00000LNCSO-2P,Generation Unit,Lincs Wind Farm LNCSO-2,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,WIND,140,WALP41
+LNCSW-3,LNCSW,48W00000LNCSW-3,,48W00000LNCSW-3S,Generation Unit,Lincs Wind Farm LNCSW-3,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,WIND,250,WALP41
+LNMTH-1,LNMTH,48W00000LNMTH-1,,48W00000LNMTH-1R,Generation Unit,Lynemouth P/S LNMTH-1,Not used (Dummy ID 16),Lynemouth Power Limited,Local,23-09-14,Jonathan Scott,Jonathan.Scott@lynemouthpower.com,GEN,G,BIOMASS,133,BLYT21
+LNMTH-2,LNMTH,48W00000LNMTH-2,,48W00000LNMTH-2P,Generation Unit,Lynemouth P/S LNMTH-2,Not used (Dummy ID 16),Lynemouth Power Limited,Local,23-09-14,Jonathan Scott,Jonathan.Scott@lynemouthpower.com,GEN,G,BIOMASS,133,BLYT21
+LNMTH-3,LNMTH,48W00000LNMTH-3,,48W00000LNMTH-3N,Generation Unit,Lynemouth P/S LNMTH-3,Not used (Dummy ID 16),Lynemouth Power Limited,Local,23-09-14,Jonathan Scott,Jonathan.Scott@lynemouthpower.com,GEN,G,BIOMASS,133,BLYT21
+LOAN-1,LOAN,48W000000LOAN-1,,48W000000LOAN-19,Generation Unit,Longannet LOAN-1,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,COAL,600,LOAN21
+LOAN-2,LOAN,48W000000LOAN-2,,48W000000LOAN-27,Generation Unit,Longannet LOAN-2,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,COAL,600,LOAN21
+LOAN-3,LOAN,48W000000LOAN-3,,48W000000LOAN-35,Generation Unit,Longannet LOAN-3,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,COAL,600,LOAN21
+LOAN-4,LOAN,48W000000LOAN-4,,48W000000LOAN-43,Generation Unit,Longannet LOAN-4,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,COAL,600,LOAN21
+LOCG-1,LOCG,48W000000LOCG-1,,48W000000LOCG-1R,Generation Unit,Loch Gair LOCG-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,999,INVE11
+LOCH-1,CAKIL,48W000000LOCH-1,,48W000000LOCH-1N,Generation Unit,Killin Cascade LOCH-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,23,CASCAD
+LOCH-2,CAKIL,48W000000LOCH-2,,48W000000LOCH-2L,Generation Unit,Killin Cascade LOCH-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,23,CASCAD
+LUBR-1,CAKIL,48W000000LUBR-1,,48W000000LUBR-1Q,Generation Unit,Killin Cascade LUBR-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,4,CASCAD
+LUIC-1,CACON,48W000000LUIC-1,,48W000000LUIC-1E,Generation Unit,Conon Cascade LUIC-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,18,CASCAD
+LUIC-2,CACON,48W000000LUIC-2,,48W000000LUIC-2C,Generation Unit,Conon Cascade LUIC-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,18,CASCAD
+MARK-1,MARK,48W000000MARK-1,,48W000000MARK-1D,Generation Unit,Markinch Biomass MARK-1,Not used (Dummy ID 9),RWE Innogy Markinch Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,BIOMASS,55,GLRO21
+MDHLW-1,MDHLW,48W00000MDHLW-1,,48W00000MDHLW-1P,Generation Unit,Mid Hill Wind Farm MDHLW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,76,FETT21
+MEDP-1,MEDP,48W000000MEDP-1,,48W000000MEDP-12,Generation Unit,Medway MEDP-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,CCGT,700,GRAI42
+MILWW-1,MILWW,48W00000MILWW-1,,48W00000MILWW-1M,Generation Unit,Millennium Windfarm MILWW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,65,FAUG11
+MINSW-1,MINSW,48W00000MINSW-1,,48W00000MINSW-1U,Generation Unit,Minsca MINSW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,38,CHAP11
+MOSS-1,CACON,48W000000MOSS-1,,48W000000MOSS-13,Generation Unit,Conon Cascade MOSS-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,7,CASCAD
+MOSS-2,CACON,48W000000MOSS-2,,48W000000MOSS-21,Generation Unit,Conon Cascade MOSS-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,12,CASCAD
+MRWD-1,MRWD,48W000000MRWD-1,,48W000000MRWD-1P,Generation Unit,Marchwood MRWD-1,Not used (Dummy ID 20),Marchwood Power Ltd,Local,23-09-14,Richard Holman,RichardH@marchwoodpower.com,GEN,G,CCGT,920,MAWO41
+NANT-1,NANT,48W000000NANT-1,,48W000000NANT-1R,Generation Unit,Nant NANT-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,15,INVE11
+NHOYW-1,NHOYW,48W00000NHOYW-1,,48W00000NHOYW-1U,Generation Unit,North Hoyle W/F NHOYW-1,Not used (Dummy ID 11),NWP Offshore Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,60,HEYS41
+NOVAW-1,NOVAW,48W00000NOVAW-1,,48W00000NOVAW-1M,Generation Unit,Novar Wind Farm NOVAW-1,SEL_SUPPP,SmartestEnergy Trading Point,Local,23-09-14,Julia Byford-Smith,julia-byford-smith@smartestenergy.com,GEN,G,WIND,17,MOTA11
+NOVAW-2,NOVAW,48W00000NOVAW-2,,48W00000NOVAW-2K,Generation Unit,Novar Wind Farm NOVAW-2,Not used (Dummy ID 10),Novar Two Wind Farm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,36,MOTA11
+OLDS1,OLDS,48W0000000OLDS1,15,48W0000000OLDS1H,Generation Unit,Oldbury OLDS1,BETRADING,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,280,IROA21
+OLDS2,OLDS,48W0000000OLDS2,15,48W0000000OLDS2F,Generation Unit,Oldbury OLDS2,BETRADING,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,280,IROA21
+OMNDO-1,OMNDW,48W00000OMNDO-1,,48W00000OMNDO-1J,Generation Unit,Ormonde Eng Ltd OMNDO-1,VTS_EUROP,Vattenfall Trading Services GmbH,Local,23-09-14,Logistics Power,bkm@vattenfall.de,GEN,G,WIND,150,HEYS41
+ORRI-1,CACON,48W000000ORRI-1,,48W000000ORRI-1G,Generation Unit,Conon Cascade ORRI-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,18,CASCAD
+PAUHW-1,PAUHW,48W00000PAUHW-1,,48W00000PAUHW-11,Generation Unit,Pauls' Hill Aberlour PAUHW-1,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,70,GLFA31
+PEHE-1,PEHE,48W000000PEHE-1,,48W000000PEHE-15,Generation Unit,Peterhead PEHE-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,CCGT,"1,180",PEHE21
+PEHE-2,PEHE,48W000000PEHE-2,,48W000000PEHE-23,Generation Unit,Peterhead PEHE-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,CCGT,660,PEHE21
+PEMB-11,PEMB,48W00000PEMB-11,,48W00000PEMB-11T,Generation Unit,Pembroke Power Station PEMB-11,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,445,PEMB41
+PEMB-21,PEMB,48W00000PEMB-21,,48W00000PEMB-21Q,Generation Unit,Pembroke Power Station PEMB-21,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,445,PEMB41
+PEMB-31,PEMB,48W00000PEMB-31,,48W00000PEMB-31N,Generation Unit,Pembroke Power Station PEMB-31,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,445,PEMB41
+PEMB-41,PEMB,48W00000PEMB-41,,48W00000PEMB-41K,Generation Unit,Pembroke Power Station PEMB-41,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,445,PEMB41
+PEMB-51,PEMB,48W00000PEMB-51,,48W00000PEMB-51H,Generation Unit,Pembroke Power Station PEMB-51,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,445,PEMB41
+PETEM1,PETE,48W000000PETEM1,,48W000000PETEM1O,Generation Unit,Peterborough PETEM1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,CCGT,240,WALP41
+PITL-1,CACLU,48W000000PITL-1,,48W000000PITL-14,Generation Unit,Clunie Cascade PITL-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,8,CASCAD
+PITL-2,CACLU,48W000000PITL-2,,48W000000PITL-22,Generation Unit,Clunie Cascade PITL-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,8,CASCAD
+QUOI-1,CAGAR,48W100000QUOI-1,,48W100000QUOI-1N,Generation Unit,Garry Cascade QUOI-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,19,CASCAD
+RANN-1,RANN,48W000000RANN-1,,48W000000RANN-1N,Generation Unit,Rannoch RANN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,ERRO11
+RANN-2,RANN,48W000000RANN-2,,48W000000RANN-2L,Generation Unit,Rannoch RANN-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,ERRO11
+RANN-3,RANN,48W000000RANN-3,,48W000000RANN-3J,Generation Unit,Rannoch RANN-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,17,ERRO11
+RATS-1,RATS,48W000000RATS-1,,48W000000RATS-1A,Generation Unit,Ratcliffe RATS-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,COAL,505,RATS41
+RATS-2,RATS,48W000000RATS-2,,48W000000RATS-28,Generation Unit,Ratcliffe RATS-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,COAL,505,RATS42
+RATS-3,RATS,48W000000RATS-3,,48W000000RATS-36,Generation Unit,Ratcliffe RATS-3,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,COAL,505,RATS42
+RATS-4,RATS,48W000000RATS-4,,48W000000RATS-44,Generation Unit,Ratcliffe RATS-4,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,COAL,505,RATS42
+RATSGT-2,RATSGT,48W0000RATSGT-2,,48W0000RATSGT-2V,Generation Unit,Ratcliffe RATSGT-2,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OCGT,17,RATS41
+RATSGT-4,RATSGT,48W0000RATSGT-4,,48W0000RATSGT-4R,Generation Unit,Ratcliffe RATSGT-4,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OCGT,17,RATS42
+RHYFW-1,RHYFW,48W00000RHYFW-1,,48W00000RHYFW-1X,Generation Unit,Rhyl Flats W/F RHYFW-1,Not used (Dummy ID 12),Rhyl Flats Wind Farm Limited,Local,23-09-14,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,90,DEES41
+ROCK-1,ROCK,48W000000ROCK-1,,48W000000ROCK-16,Generation Unit,Rocksavage ROCK-1,ROCKPOWER,Intergen (UK) Ltd,Local,23-09-14,Andrew Taylor,ataylor@intergen.com,GEN,G,CCGT,830,ROCK41
+ROOS-1,ROOS,48W000000ROOS-1,,48W000000ROOS-1P,Generation Unit,Roosecote ROOS-1,CE_ENERGY,Centrica Energy,Local,23-09-14,Duty Officer,EBAM@centrica.com,GEN,G,CCGT,0,HUTT4B
+RREW-1,RREW,48W000000RREW-1,,48W000000RREW-14,Generation Unit,Robin Rigg East RREW-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,90,HARK21
+RRWW-1,RRWW,48W000000RRWW-1,,48W000000RRWW-1P,Generation Unit,Robin Rigg West RRWW-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,90,HARK21
+RSHLW-1,RSHLW,48W00000RSHLW-1,,48W00000RSHLW-1S,Generation Unit,Rosehall Wind Farm RSHLW-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,WIND,24,SHIN11
+RUGGT-6,RUGGT,48W00000RUGGT-6,,48W00000RUGGT-6A,Generation Unit,Rugely RUGGT-6,RUG_POWER,Deeside Power Company Trading Point,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,OCGT,25,RUGE41
+RUGGT-7,RUGGT,48W00000RUGGT-7,,48W00000RUGGT-78,Generation Unit,Rugely RUGGT-7,RUG_POWER,Deeside Power Company Trading Point,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,OCGT,25,RUGE41
+RUGPS-6,RUGPS,48W00000RUGPS-6,,48W00000RUGPS-66,Generation Unit,Rugeley RUGPS-6,RUG_POWER,Deeside Power Company Trading Point,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,COAL,512,RUGE41
+RUGPS-7,RUGPS,48W00000RUGPS-7,,48W00000RUGPS-74,Generation Unit,Rugeley RUGPS-7,RUG_POWER,Deeside Power Company Trading Point,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,COAL,515,RUGE41
+RYHPS-1,RYHPS,48W00000RYHPS-1,,48W00000RYHPS-1J,Generation Unit,Rye House Power Station RYHPS-1,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,CCGT,715,RYEH41
+SANDW-1,SANDW,48W00000SANDW-1,,48W00000SANDW-12,Generation Unit,Spurness Wind Farm SANDW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,8,SHIN11
+SCCL-1,SCCL,48W000000SCCL-1,,48W000000SCCL-1U,Generation Unit,Saltend SCCL-1,SALTENDPS,International Power PLC,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,CCGT,400,SAES21
+SCCL-2,SCCL,48W000000SCCL-2,,48W000000SCCL-2S,Generation Unit,Saltend SCCL-2,SALTENDPS,International Power PLC,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,CCGT,400,SAES21
+SCCL-3,SCCL,48W000000SCCL-3,,48W000000SCCL-3Q,Generation Unit,Saltend SCCL-3,SALTENDPS,International Power PLC,Local,23-09-14,Simon Baxter,simon.baxter@gdfsuez.com,GEN,G,CCGT,400,SAES21
+SEAB-1,SEAB,48W000000SEAB-1,,48W000000SEAB-1V,Generation Unit,Seabank SEAB-1,Not used (Dummy ID 17),Seabank Power Limited,Local,23-09-14,Paul Hancock,paul.hancock@seabank.co.uk,GEN,G,CCGT,836,SEAB41
+SEAB-2,SEAB,48W000000SEAB-2,,48W000000SEAB-2T,Generation Unit,Seabank SEAB-2,Not used (Dummy ID 17),Seabank Power Limited,Local,23-09-14,Paul Hancock,paul.hancock@seabank.co.uk,GEN,G,CCGT,422,SEAB41
+SFIL-1,SFIL,48W000000SFIL-1,,48W000000SFIL-1J,Generation Unit,St Fillans SFIL-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,20,KIIN11
+SHBA-1,SHBA,48W000000SHBA-1,,48W000000SHBA-1C,Generation Unit,South Humber SHBA-1,EGG_POWER,EP South Humber Ltd,Local,23-09-14,Rebecca Lewis,rebecca.lewis@epinvest.co.uk,GEN,G,CCGT,810,SHBA41
+SHBA-2,SHBAB,48W000000SHBA-2,,48W000000SHBA-2A,Generation Unit,South Humber SHBA-2,EGG_POWER,EP South Humber Ltd,Local,23-09-14,Rebecca Lewis,rebecca.lewis@epinvest.co.uk,GEN,G,CCGT,580,SHBA41
+SHIN-1,SHIN,48W100000SHIN-1,,48W100000SHIN-1N,Generation Unit,Shin SHIN-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,12,SHIN11
+SHIN-2,SHIN,48W000000SHIN-2,,48W000000SHIN-2Y,Generation Unit,Shin SHIN-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,12,SHIN11
+SHOS-1,SHOS,48W000000SHOS-1,,48W000000SHOS-1N,Generation Unit,Shoreham SHOS-1,SCO_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,CCGT,420,BOLN41
+SHRSO-1,SHRSW,48W00000SHRSO-1,,48W00000SHRSO-1Y,Generation Unit,Sheringham Shoal Wind Farm SHRSO-1,SMG_EUROP,Statkraft Markets GmBH,Local,23-09-14,Benjamin Karsten,benjamin.karsten@statkraft.de,GEN,G,WIND,157,NORW41
+SHRSO-2,SHRSW,48W00000SHRSO-2,,48W00000SHRSO-2W,Generation Unit,Sheringham Shoal Wind Farm SHRSO-2,SMG_EUROP,Statkraft Markets GmBH,Local,23-09-14,Benjamin Karsten,benjamin.karsten@statkraft.de,GEN,G,WIND,157,NORW41
+SIZB-1,SIZB,48W000000SIZB-1,,48W000000SIZB-1U,Generation Unit,Sizewell B SIZB-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,660,SIZE41
+SIZB-2,SIZB,48W000000SIZB-2,,48W000000SIZB-2S,Generation Unit,Sizewell B SIZB-2,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,660,SIZE41
+SLOY-1,SLOY,48W000000SLOY-1,,48W000000SLOY-1C,Generation Unit,SLOY SLOY-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,40,SLOY11
+SLOY-2,SLOY,48W000000SLOY-2,,48W000000SLOY-2A,Generation Unit,SLOY SLOY-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,40,SLOY11
+SLOY-3,SLOY,48W000000SLOY-3,,48W000000SLOY-38,Generation Unit,SLOY SLOY-3,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,40,SLOY11
+SLOY-4,SLOY,48W000000SLOY-4,,48W000000SLOY-46,Generation Unit,SLOY SLOY-4,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,33,SLOY11
+SPLN-1,SPLN,48W000000SPLN-1,,48W000000SPLN-1A,Generation Unit,Spalding Power Station SPLN-1,SPA_POWER,Intergen (UK) Ltd,Local,23-09-14,Andrew Taylor,ataylor@intergen.com,GEN,G,CCGT,903,SPLN41
+SROM-1,SROM,48W000000SROM-1,,48W000000SROM-1O,Generation Unit,Sron Mor SROM-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,999,INVE11
+STAY-1,STAY,48W000000STAY-1,,48W000000STAY-1Y,Generation Unit,Staythorpe STAY-1,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,445,STAY41
+STAY-2,STAY,48W000000STAY-2,,48W000000STAY-2W,Generation Unit,Staythorpe STAY-2,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,457,STAY42
+STAY-3,STAY,48W000000STAY-3,,48W000000STAY-3U,Generation Unit,Staythorpe STAY-3,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,457,STAY41
+STAY-4,STAY,48W000000STAY-4,,48W000000STAY-4S,Generation Unit,Staythorpe STAY-4,Not used (Dummy ID 4),RWE Generation UK plc,Local,23-09-14,John Norbury,john.norbury@rwe.com,GEN,G,CCGT,457,STAY42
+STCR-1,STCR,48W000000STCR-1,,48W000000STCR-1F,Generation Unit,Stevens Croft STCR-1,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,BIOMASS,45,CHAP11
+STVE-1,STVE,48W000000STVE-1,,48W000000STVE-19,Generation Unit,Striven STVE-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,999,DUNO31
+STVE-2,STVE,48W000000STVE-2,,48W000000STVE-27,Generation Unit,Striven STVE-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,999,DUNO31
+SUTB-1,SUTB,48W000000SUTB-1,,48W000000SUTB-1P,Generation Unit,Sutton Bridge SUTB-1,STB_SUPPP,Sutton Bridge Power Generation ,Local,23-09-14,Phil Robinson,phil.robinson@calonenergy.com,GEN,G,CCGT,819,SUTB41
+SVRP-10,SVRP,48W00000SVRP-10,15,48W00000SVRP-10A,Generation Unit,Severn Power SVRP-10,SEV_POWER,Severn Power Limited,Local,23-09-14,Phil Robinson,phil.robinson@calonenergy.com,GEN,G,CCGT,425,USKM2B
+SVRP-20,SVRP,48W00000SVRP-20,15,48W00000SVRP-207,Generation Unit,Severn Power SVRP-20,SEV_POWER,Severn Power Limited,Local,23-09-14,Phil Robinson,phil.robinson@calonenergy.com,GEN,G,CCGT,425,USKM2B
+TANGW-1,TANGW,48W00000TANGW-1,,48W00000TANGW-1G,Generation Unit,"Tangy Wind, Argyll TANGW-1",SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,13,INVE11
+TAYL2G,TAYL-G,48W000000TAYL2G,,48W000000TAYL2GY,Generation Unit,Taylors Lane TAYL2G,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OCGT,72,WISD21
+TAYL3G,TAYL-G,48W000000TAYL3G,,48W000000TAYL3GV,Generation Unit,Taylors Lane TAYL3G,POWER_GEN,E.ON UK EMC,Local,23-09-14,Liza Davies,liza.davies@uniper.energy,GEN,G,OCGT,72,WISD21
+TDBNW-1,TDBNW,48W00000TDBNW-1,,48W00000TDBNW-1W,Generation Unit,Toddleburn Wind Farm TDBNW-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,WIND,28,DUNE31
+THNTW-1,THNTW,48W00000THNTW-1,,48W00000THNTW-1D,Generation Unit,Thanet Offshore Wind THNTW-1,VTS_EUROP,Vattenfall Trading Services GmbH,Local,23-09-14,Logistics Power,bkm@vattenfall.de,GEN,G,WIND,150,CANT41
+THNTW-2,THNTW,48W00000THNTW-2,,48W00000THNTW-2B,Generation Unit,Thanet Offshore Wind THNTW-2,VTS_EUROP,Vattenfall Trading Services GmbH,Local,23-09-14,Logistics Power,bkm@vattenfall.de,GEN,G,WIND,150,CANT41
+THNTO-1,THNTO,48W00000THNTO-1,,48W00000THNTO-18,Generation Unit,Thanet Offshore Wind THNTO-1,VTS_EUROP,Vattenfall Trading Services GmbH,Local,15-09-16,Logistics Power,bkm@vattenfall.de,GEN,G,WIND,150,CANT41
+THNTO-2,THNTO,48W00000THNTO-2,,48W00000THNTO-26,Generation Unit,Thanet Offshore Wind THNTO-2,VTS_EUROP,Vattenfall Trading Services GmbH,Local,15-09-16,Logistics Power,bkm@vattenfall.de,GEN,G,WIND,150,CANT41
+TORA-1,CACON,48W000000TORA-1,,48W000000TORA-1V,Generation Unit,Conon Cascade TORA-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,8,CASCAD
+TORA-2,CACON,48W000000TORA-2,,48W000000TORA-2T,Generation Unit,Conon Cascade TORA-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,8,CASCAD
+TORN-1,TORN,48W000000TORN-1,,48W000000TORN-1G,Generation Unit,Torness TORN-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,685,TORN41
+TORN-2,TORN,48W000000TORN-2,,48W000000TORN-2E,Generation Unit,Torness TORN-2,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,NUCLEAR,685,TORN41
+TULWW-2,TULWB,48W00000TULWW-2,,48W00000TULWW-2S,Generation Unit,Tullo II TULWW-2,NTL_POWER,Natural Power,Local,23-09-14,Kevin Armstrong,kevina@naturalpower.com,GEN,G,WIND,25,BREC11
+TUMB-1,TUMB,48W000000TUMB-1,,48W000000TUMB-1G,Generation Unit,Tummel Bridge TUMB-1,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,20,ERRO11
+TUMB-2,TUMB,48W000000TUMB-2,,48W000000TUMB-2E,Generation Unit,Tummel Bridge TUMB-2,SSE_GROUP,SSE Energy Supply Ltd,Local,23-09-14,Martin B MacLeod,martin.macleod@sse.com,GEN,G,NPSHYD,20,ERRO11
+USKM-13,USKM,48W00000USKM-13,,48W00000USKM-13T,Generation Unit,Uskmouth Power Station USKM-13,Not used (Dummy ID 21),Uskmouth Power Company Ltd,Local,17-03-15,James Busche,james.busche@simec.com,GEN,G,BIOMASS,121,USKM2A
+USKM-14,USKM,48W00000USKM-14,,48W00000USKM-14R,Generation Unit,Uskmouth Power Station USKM-14,Not used (Dummy ID 21),Uskmouth Power Company Ltd,Local,17-03-15,James Busche,james.busche@simec.com,GEN,G,BIOMASS,121,USKM2A
+USKM-15,USKM,48W00000USKM-15,,48W00000USKM-15P,Generation Unit,Uskmouth Power Station USKM-15,Not used (Dummy ID 21),Uskmouth Power Company Ltd,Local,17-03-15,James Busche,james.busche@simec.com,GEN,G,BIOMASS,121,USKM2A
+WBUGT-1,WBUGT,48W00000WBUGT-1,,48W00000WBUGT-1T,Generation Unit,West Burton WBUGT-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,OCGT,20,WBUR41
+WBUGT-4,WBUGT,48W00000WBUGT-4,,48W00000WBUGT-4N,Generation Unit,West Burton WBUGT-4,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,OCGT,20,WBUR41
+WBUPS-1,WBUPS,48W00000WBUPS-1,,48W00000WBUPS-1P,Generation Unit,West Burton WBUPS-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,503,WBUR42
+WBUPS-2,WBUPS,48W00000WBUPS-2,,48W00000WBUPS-2N,Generation Unit,West Burton WBUPS-2,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,503,WBUR41
+WBUPS-3,WBUPS,48W00000WBUPS-3,,48W00000WBUPS-3L,Generation Unit,West Burton WBUPS-3,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,503,WBUR41
+WBUPS-4,WBUPS,48W00000WBUPS-4,,48W00000WBUPS-4J,Generation Unit,West Burton WBUPS-4,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,COAL,503,WBUR42
+WBURB-1,WBURB,48W00000WBURB-1,,48W00000WBURB-19,Generation Unit,West Burton B PS WBURB-1,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,CCGT,450,WBUR41
+WBURB-2,WBURB,48W00000WBURB-2,,48W00000WBURB-27,Generation Unit,West Burton B PS WBURB-2,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,CCGT,460,WBUR41
+WBURB-3,WBURB,48W00000WBURB-3,,48W00000WBURB-35,Generation Unit,West Burton B PS WBURB-3,JAD_POWER,EDF Energy,Local,23-09-14,Richard Devenport,^OptimisationPowerOperations@edfenergy.com,GEN,G,CCGT,450,WBUR41
+WDNSW-1,WDNSW,48W00000WDNSW-1,,48W00000WDNSW-1M,Generation Unit,West of Duddon Sands WDNSW-1,WDS_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,191,HEYS41
+WDNSW-2,WDNSW,48W00000WDNSW-2,,48W00000WDNSW-2K,Generation Unit,West of Duddon Sands WDNSW-2,WDS_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,191,HEYS41
+WHILW-1,WHILW,48W00000WHILW-1,,48W00000WHILW-1M,Generation Unit,Whitelee Windfarm WHILW-1,CRE_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,322,EKIS21
+WHILW-2,WHILW,48W00000WHILW-2,,48W00000WHILW-2K,Generation Unit,Whitelee Windfarm WHILW-2,CRE_POWER,Scottish Power Energy Management Centre,Local,23-09-14,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,238,EKIS21
+WLNYO-2,WLNYW,48W00000WLNYO-2,,48W00000WLNYO-23,Generation Unit,Walney Wind Farm WLNYO-2,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,183,HEYS41
+WLNYW-1,WLNYW,48W00000WLNYW-1,,48W00000WLNYW-1A,Generation Unit,Walney Wind Farm WLNYW-1,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,183,HEYS41
+WTMSO-1,WTMSO,48W00000WTMSO-1,,48W00000WTMSO-1M,Generation Unit,Westermost Rough W/F WTMSO-1,SVP_POWER,DONG Naturgas A/S,Local,23-09-14,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,210,HEDO21
+WYLF-1,WYLF,48W000000WYLF-1,,48W000000WYLF-1Y,Generation Unit,Wylfa WYLF-1,BETRADING,NDA,Local,23-09-14,James Lamb,James.M.Lamb@innuserv.com,GEN,G,NUCLEAR,335,WYLF41
+WYLF-2,WYLF,48W000000WYLF-2,,48W000000WYLF-2W,Generation Unit,Wylfa WYLF-2,BETRADING,NDA,Local,23-09-14,James Lamb,James.M.Lamb@innuserv.com,GEN,G,NUCLEAR,335,WYLF41
+WYLF-3,WYLF,48W000000WYLF-3,,48W000000WYLF-3U,Generation Unit,Wylfa WYLF-3,BETRADING,NDA,Local,23-09-14,James Lamb,James.M.Lamb@innuserv.com,GEN,G,NUCLEAR,335,WYLF41
+WYLF-4,WYLF,48W000000WYLF-4,,48W000000WYLF-4S,Generation Unit,Wylfa WYLF-4,BETRADING,NDA,Local,23-09-14,James Lamb,James.M.Lamb@innuserv.com,GEN,G,NUCLEAR,335,WYLF41
+GYMRO-15,GYMRO,48W0000GYMRO-15,,48W0000GYMRO-15O,Generation Unit,Gwynt Y Mor GYMRO-15,Not used (Dummy ID 8),Gwynt Y Mor Offshore Wind Farm Limited,Local,28-01-15,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,148,DEES41
+GYMRO-17,GYMRO,48W0000GYMRO-17,,48W0000GYMRO-17K,Generation Unit,Gwynt Y Mor GYMRO-17,Not used (Dummy ID 8),Gwynt Y Mor Offshore Wind Farm Limited,Local,28-01-15,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,148,DEES41
+GYMRO-26,GYMRO,48W0000GYMRO-26,,48W0000GYMRO-26J,Generation Unit,Gwynt Y Mor GYMRO-26,Not used (Dummy ID 8),Gwynt Y Mor Offshore Wind Farm Limited,Local,28-01-15,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,148,DEES41
+GYMRO-28,GYMRO,48W0000GYMRO-28,,48W0000GYMRO-28F,Generation Unit,Gwynt Y Mor GYMRO-28,Not used (Dummy ID 8),Gwynt Y Mor Offshore Wind Farm Limited,Local,28-01-15,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,148,DEES41
+WDNSO-1,WDNSO,48W00000WDNSO-1,,48W00000WDNSO-1H,Generation Unit,West of Duddon Sands WDNSO-1,WDS_POWER,Scottish Power Energy Management Centre,Local,21-08-15,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,191,HEYS41
+WDNSO-2,WDNSO,48W00000WDNSO-2,,48W00000WDNSO-2F,Generation Unit,West of Duddon Sands WDNSO-2,WDS_POWER,Scottish Power Energy Management Centre,Local,21-08-15,"Ewan Stott, Acting Operational Trading Manager",ewan.stott.@scottishpower.com,GEN,G,WIND,191,HEYS41
+KLGLW-1,KLGLW,48W00000KLGLW-1,,48W00000KLGLW-1S,Generation Unit,Kilgallioch Wind Farm  KLGLW-1,CRE_POWER,ScottishPower Energy Management Centre,Local,23-11-16,"Ewan Stott, Operational Trading Manager, GEM ",ewan.stott@scottishpower.com,GEN,G,WIND,228,MAHI21
+BEINW-1,BEINW,48W00000BEINW-1,,48W00000BEINW-1G,Generation Unit,BWFL2016,NTL_POWER,Beinneun Wind Farm Limited,Local,28-11-16,Alex Price,alex.price@blue-energyco.com,GEN,G,WIND,109,
+PNYCW-1,PNYCW,48W00000PNYCW-1,,48W00000PNYCW-1M,Generation Unit,Pen Y Cymoedd Wind Farm,VTS_EUROP,Pen Y Cymoedd Wind Farm,Local,06-12-16,Yanik Luenen,yanik@leunen@vattenfall.de,GEN,G,WIND,228,SWAN21
+RCBKO-1,RCBKO,48W00000RCBKO-1,,48W00000RCBKO-1S,Generation Unit,ROWWF-1,SVP_POWER,DONG Naturgas A/S,Local,28-03-17,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,279,WALP41
+RCBKO-2,RCBKO,48W00000RCBKO-2,,48W00000RCBKO-2Q,Generation Unit,ROWWF-2,SVP_POWER,DONG Naturgas A/S,Local,28-03-17,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,286,WALP41
+DDGNO-1,DDGNO,48W00000DDGNO-1,,48W00000DDGNO-1E,Generation Unit,Dudgeon Offshore Wind Farm DDGNO-1,STL_POWER,Dudgeon Offshore Wind Ltd,Local,20-04-17,Bjørn Harald Berge,bhb@statoil.com,GEN,G,WIND,108,NECT41
+DDGNO-2,DDGNO,48W00000DDGNO-2,,48W00000DDGNO-2C,Generation Unit,Dudgeon Offshore Wind Farm DDGNO-2,STL_POWER,Dudgeon Offshore Wind Ltd,Local,20-04-17,Bjørn Harald Berge,bhb@statoil.com,GEN,G,WIND,90,NECT41
+DDGNO-3,DDGNO,48W00000DDGNO-3,,48W00000DDGNO-3A,Generation Unit,Dudgeon Offshore Wind Farm DDGNO-3,STL_POWER,Dudgeon Offshore Wind Ltd,Local,20-04-17,Bjørn Harald Berge,bhb@statoil.com,GEN,G,WIND,102,NECT41
+DDGNO-4,DDGNO,48W00000DDGNO-4,,48W00000DDGNO-48,Generation Unit,Dudgeon Offshore Wind Farm DDGNO-4,STL_POWER,Dudgeon Offshore Wind Ltd,Local,20-04-17,Bjørn Harald Berge,bhb@statoil.com,GEN,G,WIND,102,NECT41
+GAOFO-1,GAOFO,48W00000GAOFO-1,,48W00000GAOFO-13,Generation Unit,Galloper Offshore Wind Farm GAOFO-1,NAT_POWER,Galloper Offshore Wind Ltd,Local,09-05-17,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,88,LEIS11
+GAOFO-2,GAOFO,48W00000GAOFO-2,,48W00000GAOFO-21,Generation Unit,Galloper Offshore Wind Farm GAOFO-2,NAT_POWER,Galloper Offshore Wind Ltd,Local,09-05-17,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,88,LEIS11
+GAOFO-3,GAOFO,48W00000GAOFO-3,,48W00000GAOFO-3-,Generation Unit,Galloper Offshore Wind Farm GAOFO-3,NAT_POWER,Galloper Offshore Wind Ltd,Local,09-05-17,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,88,LEIS11
+GAOFO-4,GAOFO,48W00000GAOFO-4,,48W00000GAOFO-4Y,Generation Unit,Galloper Offshore Wind Farm GAOFO-4,NAT_POWER,Galloper Offshore Wind Ltd,Local,09-05-17,Andrew Robbins,Andrew.Robbins@rwe.com,GEN,G,WIND,88,LEIS11
+WLNYO-3,WLNYW3,48W00000WLNYO-3,,48W00000WLNYO-31,Generation Unit,Walney Ext 3,SVP_POWER,DONG Naturgas A/S,Local,22-06-17,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,330,HEYS41
+WLNYO-4,WLNYW4,48W00000WLNYO-4,,48W00000WLNYO-4-,Generation Unit,Walney Ext 4,SVP_POWER,DONG Naturgas A/S,Local,22-06-17,Michael Blomsterberg,miblo@dongenergy.dk,GEN,G,WIND,329,HEYS41
+BLLA-2,BLLX,48W000000BLLA-2,,48W000000BLLA-2I,Generation Unit,Blacklaw Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,69,LINM21
+HRHLW-1,HRHLW,48W00000HRHLW-1,,48W00000HRHLW-14,Generation Unit,Hare Hill wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,29,COYL11
+DRSLW-1,DRSLW,48W00000DRSLW-1,,48W00000DRSLW-17,Generation Unit,Dersalloch Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,69,NECU11
+BETHW-1,BETHW,48W00000BETHW-1,,48W00000BETHW-1H,Generation Unit,Beinn Tharsuinn Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,30,BEAU11
+BTUIW-2,BTUIW,48W00000BTUIW-2,,48W00000BTUIW-2A,Generation Unit,Beinn an Tuirc Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,43,SLOY11
+CLFLW-1,CLFLW,48W00000CLFLW-1,,48W00000CLFLW-1O,Generation Unit,Clachan Flats Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,15,SLOY11
+DNLWW-1,DNLWW,48W00000DNLWW-1,,48W00000DNLWW-1M,Generation Unit,Dun Law Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,30,DUNE31
+MKHLW-1,MKHLW,48W00000MKHLW-1,,48W00000MKHLW-1D,Generation Unit,Mark Hill Wind Farm,CRE_POWER,CRE Energy Ltd,Local,20-10-17,Brian Arthur,brian.arthur@scottishpower.com,GEN,G,WIND,56,COYL21
+WBURB-41,WBURB,48W0000WBURB-41,,48W0000WBURB-41Z,Generation Unit,West Burton  B PS WBURB-41,JAD_POWER,EDF Energy,Local,31-10-17,Richard Devenport,OptimisationPowerOperations@edfenergy.com,GEN,G,OTHER,30,WBUR41
+WBURB-43,WBURB,48W0000WBURB-43,,48W0000WBURB-43V,Generation Unit,West Burton  B PS WBURB-43,JAD_POWER,EDF Energy,Local,31-10-17,Richard Devenport,OptimisationPowerOperations@edfenergy.com,GEN,G,OTHER,30,WBUR43
+ASLVW-1,ASLVW,48W00000ASLVW-1,,48W00000ASLVW-1G,Generation Unit,Assel Valley Wind Farm,NTL_POWER,Natural Power,Local ,14-11-17,Nick Gardner,Nick.Gardner@rwenpower.com,GEN,G,OTHER,25,MAYB11
+ACHRW-1,ACHRW,48W00000ACHRW-1,,48W00000ACHRW-1O,Generation Unit,A'Chruach Wind Farm,NTL_POWER,Natural Power,Local,15-11-17,John Crouch,john.crouch@infinis.com,GEN,G,WIND,43,CRAR11
+DUNGW-1,DUNGW,48W00000DUNGW-1,,48W00000DUNGW-14,Generation Unit,Dunmaglass Wind Farm,SSE_GROUP,SSE Generation Ltd,Local,15-11-17,David Trueman,david.trueman@sse.com,GEN,G,WIND,84,FARI11
+HBHDW-1,HBHDW,48W00000HBHDW-1,,48W00000HBHDW-18,Generation Unit,Harburnhead Wind Farm,SGR_SUPPP,LDV Harburnhead Ltd,Local,15-11-17,Robbie Gibson,robbie.gibson@sgurrenergy.com,GEN,G,WIND,52,CURR21
+CRYRW-3,CRYRW,48W00000CRYRW-3,,48W00000CRYRW-3J,Generation Unit,Crystal Rig Wind Farm CRYRW-1,NTL_POWER,Natural Power,Local,15-11-17,Graeme Cooper,graeme.coorper@fredolsen.co.uk,GEN,G,WIND,14,CRYR11
+ASHWW-1,ASHWW,48W00000ASHWW-1,,48W00000ASHWW-1Z,Generation Unit,Andershaw Wind Farm,SMG_EUROP,Statkraft Markets GmBH,Local,15-11-17,Matthew Williams,matthew.williams@statkraft.com,GEN,G,WIND,35,LINM21
+COUWW-1,COUWW,48W00000COUWW-1,,48W00000COUWW-16,Generation Unit,Cour Wind Farm Limited,NTL_POWER,Natural Power,Local,15-11-17,Simon Tonge,simon.tonge@blue-energyco.com,GEN,G,WIND,21,INVE11
+CRMLW-1,CRMLW,48W00000CRMLW-1,,48W00000CRMLW-1E,Generation Unit,Corriemoillie Wind Farm,NTL_POWER,Natural Power,Local,15-11-17,Harish Mistry,harish.mistry@edfenergy.com,GEN,G,WIND,47,BEAU11
+CGTHW-1,CGTHW,48W00000CGTHW-1,,48W00000CGTHW-1W,Generation Unit,Corriegarth Wind Farm,WDP_POWER,Corriegarth Wind Energy Ltd,Local,15-11-17,Jonathan Kett,jkett@invenergyllc.com,GEN,G,WIND,69,FARI11
+WILCT-1,WILCT,48W00000WILCT-1,,48W00000WILCT-1H,Generation Unit,Wilton,WLT_SUPPP,Sembcorp Utilities (UK) Limited,Local,15-11-17,Don Heron,don.heron@sembutilities.co.uk,GEN,G,BIOMASS,333,GRST21
+MOYEW-1,MOYEW,48W00000MOYEW-1,,48W00000MOYEW-1T,Generation Unit,Moy Wind Farm,NTL_POWER,Natural Power,Local,15-11-17,Henny Goossens,h.goossens@eneco.com,GEN,G,WIND,60,INNE11
+STRNW-1,STRNW,48W00000STRNW-1,,48W00000CLDRW-16,Generation Unit,Strathy North Wind Farm,SSE_GROUP,SSE Generation Ltd,Local,15-11-17,David Trueman,david.trueman@sse.com,GEN,G,WIND,68,STRW11
+HLTWW-1,HLTWW,48W00000HLTWW-1,,48W00000HLTWW-1U,Generation Unit,Hill of Towie Wind Farm,SCO_POWER,ScottishPower Generation Ltd,Local,15-11-17,Andy Morran,andy.morran@scottishpower.com,GEN,G,WIND,48,KEIT11
+BHLAW-1,BHLAW,48W00000BHLAW-1,,48W00000BHLAW-15,Generation Unit,Bhlaraidh Wind Farm,SSE_GROUP,SSE Generation Ltd,Local,16-11-17,Mike Cruickshank,Mike.cruickshank@sse.com,GEN,G,WIND,108,FAUG11
+RMPNO-1,RMPNO,48W00000RMPNO-1,,48W00000RMPNO-17,Generation Unit,Rampion Offshore Wind Farm 1,EON_SUPPP,E.ON UK plc,International,08-12-17,Jake Beharall,jake.beharall@eonenergy.com,GEN,G,WIND,200,BOLN41
+RMPNO-2,RMPNO,48W00000RMPNO-2,,48W00000RMPNO-25,Generation Unit,Rampion Offshore Wind Farm 2,EON_SUPPP,E.ON UK plc,International,08-12-17,Jake Beharall,jake.beharall@eonenergy.com,GEN,G,WIND,200,BOLN41
+STLGW-1,STLGW,48W00000STLGW-1,,48W00000STLGW-1E,Generation Unit,Stronelairg Wind Farm 1,SSE_GROUP,SSE Generation Ltd,International,11-01-18,Mike Cruickshank,Mike.cruickshank@sse.com,GEN,G,WIND,75,MELG1
+STLGW-2,STLGW,48W00000STLGW-2,,48W00000STLGW-2C,Generation Unit,Stronelairg Wind Farm 2,SSE_GROUP,SSE Generation Ltd,International,11-01-18,Mike Cruickshank,Mike.cruickshank@sse.com,GEN,G,WIND,75,MELG1
+STLGW-3,STLGW,48W00000STLGW-3,,48W00000STLGW-3A,Generation Unit,Stronelairg Wind Farm 3,SSE_GROUP,SSE Generation Ltd,International,11-01-18,Mike Cruickshank,Mike.cruickshank@sse.com,GEN,G,WIND,75,MELG1
+HYWDW-1,HYWDW,48W00000HYWDW-1,,48W00000HYWDW-1G,Generation Unit,Hywind Wind Farm,,Statoil UK Ltd,International,13-02-18,Carol Williams,carw@statoil.com,GEN,G,WIND,30,PEHG31
+TDRVE-1,TDRVE,48W00000TDRVE-1,,48W00000TDRVE-15,Generation Unit,The Drove,GFP_TRADE,Green Frog Power Ltd,International,29-03-18,Mark Symes,Symes.markk@greenfrogpower.co.uk,GEN,G,CCGT,6,HINP41
+LSTWY-1,LSTWY,48W00000LSTWY-1,,48W00000LSTWY-1F,Generation Unit,Lester Way,GFP_TRADE,Green Frog Power Ltd,International,29-03-18,Mark Symes,Symes.markk@greenfrogpower.co.uk,GEN,G,CCGT,12,COWL41
+RDFRD-1,RDFRD,48W00000RDFRD-1,,48W00000RDFRD-16,Generation Unit,Redfield Road A,GFP_TRADE,Green Frog Power Ltd,International,29-03-18,Mark Symes,Symes.markk@greenfrogpower.co.uk,GEN,G,CCGT,20,RATS41
+RDFRB-1,RDFRB,48W00000RDFRB-1,,48W00000RDFRB-1E,Generation Unit,Redfield Road B,GFP_TRADE,Green Frog Power Ltd,International,29-03-18,Mark Symes,Symes.markk@greenfrogpower.co.uk,GEN,G,CCGT,20,RATS41
+LCHWT-1,LCHWT,48W00000LCHWT-1,,48W00000LCHWT-1Y,Generation Unit,Letchworth,GFP_TRADE,Green Frog Power Ltd,International,29-03-18,Mark Symes,Symes.markk@greenfrogpower.co.uk,GEN,G,CCGT,15,WYMO41
+WTRLN-1,WTRLN,48W00000WTRLN-1,,48W00000WTRLN-1V,Generation Unit,Water Lane,GFP_TRADE,Green Frog Power Ltd,International,29-03-18,Mark Symes,Symes.markk@greenfrogpower.co.uk,GEN,G,CCGT,20,EXET41
