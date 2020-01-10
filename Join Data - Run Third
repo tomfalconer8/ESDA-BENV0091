@@ -1,0 +1,55 @@
+
+############################################
+#----- set working directory -----
+############################################
+
+setwd("/Users/thomasfalconer//Desktop/University/Energy Data Analysis - BENV0091/Project")
+getwd()
+
+############################################
+#----- enabling packages -----
+############################################
+
+library(lubridate)
+library(httr)
+library(dplyr)
+library(tidyverse)
+
+############################################
+#----- combining data sets -----
+############################################
+
+# SO flag data
+so.flag <- read.csv("so_flag_clean.csv", stringsAsFactors = FALSE)
+# generation data
+generation.data <- read.csv("generation_bsuos.csv", stringsAsFactors = FALSE)
+# remove unwanted columns
+gen.long <- generation.data[,c(1,2,3,4,7)]
+# convert generation data to wide format
+gen.wide <- spread(gen.long, key = "Reg.EIC", value = "MW")
+# join data sets together
+joined.data <- full_join(gen.wide, so.flag, by = c("Date"="date", "Period"="period"))
+# fill in missing values with FALSE
+joined.data$flag <- ifelse(is.na(joined.data$flag) == TRUE,0,joined.data$flag)
+#re-arrange columns
+joined.data <- joined.data[,c(1,2,3,240,4:239)]
+# replace NAs with 0
+for(i in 5:length(colnames(joined.data))){
+  joined.data[,i] <- ifelse(is.na(joined.data[,i]) == TRUE, 0, joined.data[,i])
+}
+# make date time
+joined.data$hour <- rep(c(0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,23,23),365)
+joined.data$minute <- rep(c(0,30), (365*48/2))
+joined.data$mday <- mday(joined.data$Date)
+joined.data$month <- month(joined.data$Date)
+joined.data$year <- year(joined.data$Date)
+joined.data$date.time <- make_datetime(joined.data$year, joined.data$month, joined.data$mday, joined.data$hour, joined.data$minute)
+
+#re-order columns
+joined.data <- joined.data[, c(1,246,2,3,4,5:240)]
+
+############################################
+#----- output -----
+############################################
+
+write.csv(joined.data, "joined_data.csv", row.names = F)
