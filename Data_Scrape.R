@@ -20,8 +20,6 @@ library(tidyverse)
 #----- parameter setting -----
 ############################################
 
-# carbon intensity API service
-c.service.type <- "intensity"
 # api key for elexon portal
 e.api.key <- "g1ig3sf00x6cphp"
 # generation output per unit service
@@ -113,3 +111,4 @@ complete.data <- complete.data[,c("Date", "Period", "BSUoS", "Reg EIC", "Asset N
 
 # write csv file for output
 write.csv(complete.data, "generation_bsuos.csv", row.names=FALSE)
+
