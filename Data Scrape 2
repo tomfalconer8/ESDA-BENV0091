@@ -1,0 +1,111 @@
+
+
+############################################
+#----- set working directory -----
+############################################
+
+setwd("/Users/thomasfalconer//Desktop/University/Energy Data Analysis - BENV0091/Project")
+getwd()
+
+############################################
+#----- enabling packages -----
+############################################
+
+library(lubridate)
+library(httr)
+library(dplyr)
+library(tidyverse)
+
+############################################
+#----- parameter setting -----
+############################################
+
+# api key for elexon portal
+e.api.key <- "g1ig3sf00x6cphp"
+# generation output per unit service
+e.service.actual <- "DISBSAD"
+# return all settlement periods
+e.settle.period <- "*"
+# return csv file type
+e.service.type <- "csv"
+# setting required date range
+from.date <- as.Date("01-01-17", format="%d-%m-%y")
+to.date  <- as.Date("31-12-17", format="%d-%m-%y")
+
+
+############################################
+#----- get request - unit generation -----
+############################################
+
+# date index for while loop (start at from.date)
+current.date <- from.date
+# empty dataframe for data binding
+generation.data <- data.frame()
+# get request from elexon portal
+while(current.date <= to.date){
+  # capture url request
+  e.url <- capture.output(cat("https://api.bmreports.com/BMRS/",
+                              e.service.actual,
+                              "/v1?APIKey=", e.api.key,
+                              "&SettlementDate=", format(current.date),
+                              "&Period=", e.settle.period,
+                              "&ServiceType=", e.service.type,
+                              sep=""))
+  # GET request
+  generation.raw <- GET(url = e.url)
+  # convert raw data to character data
+  generation.char <- rawToChar(generation.raw$content)
+  # tidy to table format
+  generation.clean <- read.table(text = generation.char, sep=',', fill = TRUE)
+  # remove unwanted rows
+  generation.clean <- generation.clean[-1,]
+  # remove unwanted rows
+  generation.clean <- generation.clean[-(nrow(generation.clean)),]
+  # set date format
+  generation.clean$V2 <- ymd(generation.clean$V2)
+  # reset row numbers
+  rownames(generation.clean) <- NULL
+  # bind with dataframe
+  generation.data <- rbind(generation.data, generation.clean) 
+  # increase date index by 1 day
+  current.date <- current.date + 1
+  # print url to check index
+  print(e.url)
+}
+
+############################################
+#----- output -----
+############################################
+
+# keep only requred columns
+generation.data <- generation.data[,c(2,3,5)]
+# write csv file for output
+write.csv(generation.data, "so_flag.csv", row.names=FALSE)
+
+############################################
+#-----manipulation -----
+############################################
+
+# read file
+so.flag <- read.csv("so_flag.csv", stringsAsFactors = F)
+# column names
+colnames(so.flag) <- c("date", "period", "flag")
+# as date
+so.flag$date <- ymd(so.flag$date )
+# as factor
+so.flag$flag <- as.factor(as.character(so.flag$flag))
+
+so.flag.clean <- so.flag %>% 
+  group_by(date, period) %>%
+  summarise(flag = ifelse("TRUE" %in% flag, "TRUE", "FALSE"))
+
+so.flag.clean <- so.flag %>% 
+  group_by(date, period) %>%
+  summarise(flag = length(which(flag==TRUE)))
+
+############################################
+#----- output -----
+############################################
+
+# write csv file for output
+write.csv(so.flag.clean , "so_flag_clean.csv", row.names=FALSE)
